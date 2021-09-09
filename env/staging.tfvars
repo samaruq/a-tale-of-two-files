@@ -1,0 +1,2 @@
+file1_content = "This is the content for file1 in STAGING."
+file2_content = "This is the content for file2 in STAGING."
